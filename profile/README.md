@@ -1,4 +1,4 @@
-# How to make one million dollars in one day, starting from cloning this repository! 🤗
+How to make one million dollars in one day 🤗
 
 <!--
 
